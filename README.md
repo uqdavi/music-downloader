@@ -68,14 +68,6 @@ cd server pip install flask flask-cors yt-dlp python server.py
 
 cd music-downloader npm install npm run dev
 
-
-------------------------------------------------------------------------
-
-## 📂 Estrutura
-
-music-downloader/ │ ├── server/ ├── music-downloader/ ├── downloads/ └──
-start.bat
-
 ------------------------------------------------------------------------
 
 ## 🎯 Funcionalidades
